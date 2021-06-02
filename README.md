@@ -1,4 +1,4 @@
-# Portainer in Proxmox LXC container
+# Portainer in Proxmox LXC container on bridge vmbr1
 
 Many benefits can be gained by using a LXC container compared to a VM. The resources needed to run a LXC container are less than running a VM. Modifing the resouces assigned to the LXC container can be done without having to reboot the container. Packages that are installed to not interfere with the Proxmox OS.
 
